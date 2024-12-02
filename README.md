@@ -1,0 +1,1 @@
+JavaMap.jpg has the map that I have. Figured I'd start on implementing the level 3, since its the longest story. I have labeled the levels on their corresponding nodes. All other nodes will be descriptions of location and part of aesthetic traversal.
